@@ -1,15 +1,15 @@
-var name = "jon Dau"
+// var name = "jon Dau"
 
-// reserved keyword not allow
-var false = 15;
-var delete = "delete"
+// // reserved keyword not allow
+// var false = 15;
+// var delete = "delete"
 
-// name should be one word 
-var artist name = "Tom HANKS"
+// // name should be one word 
+// var artist name = "Tom HANKS"
 
  
-// quote is not allow
-var "Movise" = "Hally poter"
+// // quote is not allow
+// var "Movise" = "Hally poter"
 
-// name not allow 
-var 99price =99;
+// // name not allow 
+// var 99price =99;
